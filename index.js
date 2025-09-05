@@ -10,6 +10,7 @@ const { upload } = require("./storage_setup");
 
 const app = express();
 app.use(cors());
+app.use(express.json());
 let PORT = process.env.PORT || 8082;
 
 app.use(express.static("public"));
