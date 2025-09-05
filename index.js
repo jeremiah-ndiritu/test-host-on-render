@@ -111,7 +111,7 @@ app.get("/api/orders", (req, res) => {
 // add new order
 app.post("/api/add-order", (req, res) => {
   try {
-    const { product, quantity, price } = req.body;
+    const { product, quantity, price } = req.body.order;
     if (!product || !quantity || !price) {
       return res.json({ success: false, error: "All fields required!" });
     }
