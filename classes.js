@@ -3,6 +3,8 @@ class Product {
     this.name = name;
     this.price = price;
     this.discount = discount || 0;
+    this.dateAdded = 0;
+    this.id = Math.random();
     this.image = image || null;
   }
 }
