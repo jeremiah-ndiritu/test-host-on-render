@@ -1,0 +1,16 @@
+[
+  {
+    "product": "Afrigas",
+    "quantity": 1,
+    "price": 5798,
+    "total": 5798,
+    "timestamp": "2025-09-04T04:40:45.644Z"
+  },
+  {
+    "product": "Manicure pack",
+    "quantity": 3,
+    "price": 1280,
+    "total": 3840,
+    "timestamp": "2025-09-04T04:49:42.601Z"
+  }
+]
