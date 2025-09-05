@@ -3,6 +3,7 @@ const fs = require("fs");
 const bcrypt = require("bcrypt");
 const router = express.Router();
 
+router.use(express.json());
 const { usersPath } = require("../index"); // JSON storage
 
 // ===== REGISTER =====
