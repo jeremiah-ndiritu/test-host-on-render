@@ -1,110 +1,44 @@
 [
   {
-    "name": "GAs 1",
-    "price": "1200",
-    "discount": "12",
-    "image": ""
-  },
-  {
-    "name": "GAs 1",
-    "price": "1200",
-    "discount": "12",
-    "image": ""
-  },
-  {
-    "name": "GAs 1",
-    "price": "1200",
-    "discount": "12",
-    "image": ""
-  },
-  {
-    "name": "GAs 1",
-    "price": "1200",
-    "discount": "12",
-    "image": ""
-  },
-  {
-    "name": "",
-    "price": "",
-    "discount": "",
-    "image": ""
-  },
-  {
-    "name": "",
-    "price": "",
-    "discount": "",
-    "image": ""
-  },
-  {
-    "name": "Gas 2 ",
-    "price": "2200",
-    "discount": "100",
-    "image": ""
-  },
-  {
-    "name": "Wajiko",
-    "price": "1150",
-    "discount": "0",
-    "image": ""
-  },
-  {
-    "name": "Wajiko 33",
-    "price": "2235",
-    "discount": "0",
-    "image": ""
-  },
-  {
-    "name": "",
-    "price": "",
-    "discount": "0",
-    "image": ""
-  },
-  {
-    "name": "Pro gas",
-    "price": "4200",
-    "discount": "",
-    "image": ""
-  },
-  {
     "name": "Wifi 1",
     "price": "4300",
     "discount": 0,
-    "image": "/uploads/1756957243697-881411954.jpeg"
+    "image": "uploads/1756957243697-881411954.jpeg"
   },
   {
     "name": "Wifi 2",
     "price": "4500",
     "discount": 0,
-    "image": "/uploads/1756957486744-282366542.jpeg"
+    "image": "uploads/1756957486744-282366542.jpeg"
   },
   {
     "name": "Manicure pack",
     "price": "1280",
     "discount": "2",
-    "image": "/uploads/1756957793636-974517975.jpeg"
+    "image": "uploads/1756957793636-974517975.jpeg"
   },
   {
     "name": "Afrigas",
     "price": "5798",
     "discount": 0,
-    "image": "/uploads/1756958052316-783403060.jpg"
+    "image": "uploads/1756958052316-783403060.jpg"
   },
   {
     "name": "Lovely perfume ",
     "price": "650",
     "discount": 0,
-    "image": "/uploads/1756958164077-464096918.jpeg"
+    "image": "uploads/1756958164077-464096918.jpeg"
   },
   {
     "name": "graphu",
     "price": "556",
     "discount": 0,
-    "image": "/uploads/1756968518785-158133520.png"
+    "image": "uploads/1756968518785-158133520.png"
   },
   {
     "name": "Gakari",
     "price": "258",
     "discount": 0,
-    "image": "/uploads/1756968533970-103648098.jpg"
+    "image": "uploads/1756968533970-103648098.jpg"
   }
 ]
